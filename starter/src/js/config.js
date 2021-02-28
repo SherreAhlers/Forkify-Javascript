@@ -1,6 +1,6 @@
-// this is where all constants will be stored
-// common practice to upper case constants
-
 export const API_URL = 'https://forkify-api.herokuapp.com/api/v2/recipes/';
 
-export const TIMOUT_SEC = 10;
+export const TIMEOUT_SEC = 10;
+export const RES_PER_PAGE = 10;
+export const KEY = '165b6d02-7b44-4ae6-a25d-dba0e4770ff0';
+export const MODAL_CLOSE_SEC = 2.5;
